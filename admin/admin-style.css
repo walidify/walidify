@@ -1,6 +1,0 @@
-/* Additional custom styles for admin, dark mode, scrollbar */
-body.dark { background-color: #09090b; }
-.product-card { transition: all 0.2s; }
-.product-card:hover { transform: translateY(-4px); }
-#adminPanel { display: block; }
-.modal-transition { transition: opacity 0.25s; }s
